@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive - hcmute.edu.vn\Máy tính\New folder (3)\tesst1111\tesst1111\bin\Debug\net6.0\tesst1111.exe
+C:\Users\Admin\OneDrive - hcmute.edu.vn\Máy tính\New folder (3)\tesst1111\tesst1111\bin\Debug\net6.0\tesst1111.deps.json
+C:\Users\Admin\OneDrive - hcmute.edu.vn\Máy tính\New folder (3)\tesst1111\tesst1111\bin\Debug\net6.0\tesst1111.runtimeconfig.json
+C:\Users\Admin\OneDrive - hcmute.edu.vn\Máy tính\New folder (3)\tesst1111\tesst1111\bin\Debug\net6.0\tesst1111.dll
+C:\Users\Admin\OneDrive - hcmute.edu.vn\Máy tính\New folder (3)\tesst1111\tesst1111\bin\Debug\net6.0\tesst1111.pdb
+C:\Users\Admin\OneDrive - hcmute.edu.vn\Máy tính\New folder (3)\tesst1111\tesst1111\obj\Debug\net6.0\tesst1111.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive - hcmute.edu.vn\Máy tính\New folder (3)\tesst1111\tesst1111\obj\Debug\net6.0\tesst1111.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive - hcmute.edu.vn\Máy tính\New folder (3)\tesst1111\tesst1111\obj\Debug\net6.0\tesst1111.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive - hcmute.edu.vn\Máy tính\New folder (3)\tesst1111\tesst1111\obj\Debug\net6.0\tesst1111.AssemblyInfo.cs
+C:\Users\Admin\OneDrive - hcmute.edu.vn\Máy tính\New folder (3)\tesst1111\tesst1111\obj\Debug\net6.0\tesst1111.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - hcmute.edu.vn\Máy tính\New folder (3)\tesst1111\tesst1111\obj\Debug\net6.0\tesst1111.dll
+C:\Users\Admin\OneDrive - hcmute.edu.vn\Máy tính\New folder (3)\tesst1111\tesst1111\obj\Debug\net6.0\refint\tesst1111.dll
+C:\Users\Admin\OneDrive - hcmute.edu.vn\Máy tính\New folder (3)\tesst1111\tesst1111\obj\Debug\net6.0\tesst1111.pdb
+C:\Users\Admin\OneDrive - hcmute.edu.vn\Máy tính\New folder (3)\tesst1111\tesst1111\obj\Debug\net6.0\tesst1111.genruntimeconfig.cache
+C:\Users\Admin\OneDrive - hcmute.edu.vn\Máy tính\New folder (3)\tesst1111\tesst1111\obj\Debug\net6.0\ref\tesst1111.dll
